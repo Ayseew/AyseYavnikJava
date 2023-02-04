@@ -1,1 +1,1 @@
-# AyseYavnikJava
+# Java 101 eğitimi
